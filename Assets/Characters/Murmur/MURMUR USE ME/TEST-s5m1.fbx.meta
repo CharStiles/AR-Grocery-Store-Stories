@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 87c3adae4101c884bbeb32cf5e6f7aaf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: be_l_eyeBall_jnt
+    100002: be_r_eyeBall_jnt
+    100004: bn_l_eyeLid_jnt
+    100006: bn_r_eyeLid_jnt
+    100008: body_mesh
+    100010: bottle
+    100012: bottle_jnt
+    100014: grp_ctrl_face
+    100016: grp_mesh
+    100018: head_mesh
+    100020: l_eye_mesh
+    100022: l_hand_mesh
+    100024: l_shoe_mesh
+    100026: l_sock_mesh
+    100028: Murmur
+    100030: murmur_Head
+    100032: murmur_Hips
+    100034: murmur_LeftArm
+    100036: murmur_LeftFoot
+    100038: murmur_LeftForeArm
+    100040: murmur_LeftHand
+    100042: murmur_LeftHandMiddle1
+    100044: murmur_LeftHandMiddle2
+    100046: murmur_LeftHandThumb1
+    100048: murmur_LeftHandThumb2
+    100050: murmur_LeftLeg
+    100052: murmur_LeftShoulder
+    100054: murmur_LeftToeBase
+    100056: murmur_LeftUpLeg
+    100058: murmur_Neck
+    100060: murmur_Neck1
+    100062: murmur_Reference
+    100064: murmur_RightArm
+    100066: murmur_RightFoot
+    100068: murmur_RightForeArm
+    100070: murmur_RightHand
+    100072: murmur_RightHandMiddle1
+    100074: murmur_RightHandMiddle2
+    100076: murmur_RightHandThumb1
+    100078: murmur_RightHandThumb2
+    100080: murmur_RightLeg
+    100082: murmur_RightShoulder
+    100084: murmur_RightToeBase
+    100086: murmur_RightUpLeg
+    100088: //RootNode
+    100090: murmur_Spine
+    100092: murmur_Spine1
+    100094: murmur_Spine2
+    100096: murmur_Spine3
+    100098: r_eye_mesh
+    100100: r_shoe_mesh
+    100102: r_sock_mesh
+    100104: ref_ctrl_eyeAim
+    100106: sk_l_eyeBall_jnt
+    100108: sk_l_eyeLid_jnt
+    100110: sk_r_eyeBall_jnt
+    100112: sk_r_eyeLid_jnt
+    400000: be_l_eyeBall_jnt
+    400002: be_r_eyeBall_jnt
+    400004: bn_l_eyeLid_jnt
+    400006: bn_r_eyeLid_jnt
+    400008: body_mesh
+    400010: bottle
+    400012: bottle_jnt
+    400014: grp_ctrl_face
+    400016: grp_mesh
+    400018: head_mesh
+    400020: l_eye_mesh
+    400022: l_hand_mesh
+    400024: l_shoe_mesh
+    400026: l_sock_mesh
+    400028: Murmur
+    400030: murmur_Head
+    400032: murmur_Hips
+    400034: murmur_LeftArm
+    400036: murmur_LeftFoot
+    400038: murmur_LeftForeArm
+    400040: murmur_LeftHand
+    400042: murmur_LeftHandMiddle1
+    400044: murmur_LeftHandMiddle2
+    400046: murmur_LeftHandThumb1
+    400048: murmur_LeftHandThumb2
+    400050: murmur_LeftLeg
+    400052: murmur_LeftShoulder
+    400054: murmur_LeftToeBase
+    400056: murmur_LeftUpLeg
+    400058: murmur_Neck
+    400060: murmur_Neck1
+    400062: murmur_Reference
+    400064: murmur_RightArm
+    400066: murmur_RightFoot
+    400068: murmur_RightForeArm
+    400070: murmur_RightHand
+    400072: murmur_RightHandMiddle1
+    400074: murmur_RightHandMiddle2
+    400076: murmur_RightHandThumb1
+    400078: murmur_RightHandThumb2
+    400080: murmur_RightLeg
+    400082: murmur_RightShoulder
+    400084: murmur_RightToeBase
+    400086: murmur_RightUpLeg
+    400088: //RootNode
+    400090: murmur_Spine
+    400092: murmur_Spine1
+    400094: murmur_Spine2
+    400096: murmur_Spine3
+    400098: r_eye_mesh
+    400100: r_shoe_mesh
+    400102: r_sock_mesh
+    400104: ref_ctrl_eyeAim
+    400106: sk_l_eyeBall_jnt
+    400108: sk_l_eyeLid_jnt
+    400110: sk_r_eyeBall_jnt
+    400112: sk_r_eyeLid_jnt
+    2100000: lambert_murmur_skin
+    2100002: lambert_murmur_eyeWhite
+    2100004: lambert_murmur_eye
+    2100006: lambert_murmur_blueCloak
+    2100008: lambert_murmur_blueCollar
+    2100010: lambert_murmur_blueDeco
+    2100012: lambert_murmur_lips
+    2100014: lambert_murmur_innermouth
+    2100016: lambert2
+    2100018: bottleCap
+    4300000: l_sock_mesh
+    4300002: l_eye_mesh
+    4300004: l_shoe_mesh
+    4300006: r_sock_mesh
+    4300008: r_shoe_mesh
+    4300010: l_hand_mesh
+    4300012: body_mesh
+    4300014: head_mesh
+    4300016: r_eye_mesh
+    4300018: bottle
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body_mesh
+    13700002: bottle
+    13700004: head_mesh
+    13700006: l_eye_mesh
+    13700008: l_hand_mesh
+    13700010: l_shoe_mesh
+    13700012: l_sock_mesh
+    13700014: r_eye_mesh
+    13700016: r_shoe_mesh
+    13700018: r_sock_mesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'murmur_Spine3'
+      : rotation error = 1.471877 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'murmur_Spine3' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: TEST-s5m1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: murmur_Reference
+      parentName: TEST-s5m1(Clone)
+      position: {x: 0.011420237, y: 8.128714, z: 1.6434596}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: murmur_Hips
+      parentName: murmur_Reference
+      position: {x: -0.005707794, y: -3.4085202, z: -0.8217298}
+      rotation: {x: 2.964616e-17, y: -0.000000011641534, z: -0.0000000025465854, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: murmur_LeftUpLeg
+      parentName: murmur_Hips
+      position: {x: -0.020214647, y: -0.06269993, z: 0}
+      rotation: {x: 0.0000000056388676, y: -0.000000034924597, z: 0.0000000029103835,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: murmur_LeftLeg
+      parentName: murmur_LeftUpLeg
+      position: {x: -0, y: -0.20022571, z: 0}
+      rotation: {x: -0.0000000056388676, y: 0.000000023283066, z: -0.0000000032741811,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: murmur_LeftFoot
+      parentName: murmur_LeftLeg
+      position: {x: -0, y: -0.3130117, z: 0}
+      rotation: {x: -0, y: 0.00000004656613, z: 0.000000002910383, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: murmur_LeftToeBase
+      parentName: murmur_LeftFoot
+      position: {x: -0.0000000834465, y: -0.06262317, z: 0.05126159}
+      rotation: {x: 6.776263e-17, y: -0, z: -0.0000000014551914, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: murmur_RightUpLeg
+      parentName: murmur_Hips
+      position: {x: 0.020209998, y: -0.06269993, z: 0}
+      rotation: {x: 3.6379771e-10, y: 0.000000034924597, z: 9.094949e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    - name: murmur_RightLeg
+      parentName: murmur_RightUpLeg
+      position: {x: 0.000000026226044, y: -0.20022571, z: 0.0000043916702}
+      rotation: {x: -0.000000006184564, y: -0, z: -0.0000000012732928, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: murmur_RightFoot
+      parentName: murmur_RightLeg
+      position: {x: -0.000000007152557, y: -0.3130117, z: 0}
+      rotation: {x: 0.0000000043655746, y: -0.000000023283063, z: 0.0000000043655746,
+        w: 1}
+      scale: {x: 0.9999998, y: 1, z: 0.9999997}
+    - name: murmur_RightToeBase
+      parentName: murmur_RightFoot
+      position: {x: 0.000010855198, y: -0.06262317, z: 0.051261876}
+      rotation: {x: -0, y: -0, z: -0.0000000014551914, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: murmur_Spine
+      parentName: murmur_Hips
+      position: {x: -0, y: 0.10809379, z: 0}
+      rotation: {x: -0.0000000029103826, y: 0.000000011641534, z: -0.0000000047293742,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: murmur_Spine1
+      parentName: murmur_Spine
+      position: {x: -0, y: 0.1481893, z: 0}
+      rotation: {x: 0.000000008731149, y: -0, z: 0.000000009458747, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: murmur_Spine2
+      parentName: murmur_Spine1
+      position: {x: -0, y: 0.1481893, z: 0}
+      rotation: {x: -0, y: 0.000000011641532, z: -0.0000000036379788, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: murmur_Spine3
+      parentName: murmur_Spine2
+      position: {x: -0, y: 0.1481893, z: 0}
+      rotation: {x: -0.000000005820767, y: 0.00000001164153, z: -0.0000000014551915,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: murmur_LeftShoulder
+      parentName: murmur_Spine3
+      position: {x: -0.07, y: 0.09191886, z: -0.005372133}
+      rotation: {x: 0.000000005820765, y: -0.00000004656613, z: 0.000000008731149,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: murmur_LeftArm
+      parentName: murmur_LeftShoulder
+      position: {x: -0.1070725, y: 0.000001373291, z: 0}
+      rotation: {x: -0.11218212, y: 0.0018570054, z: 0.01172066, w: 0.9936168}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000001}
+    - name: murmur_LeftForeArm
+      parentName: murmur_LeftArm
+      position: {x: -0.39465925, y: -0.0000000017195949, z: -0.000000009153403}
+      rotation: {x: 0.46330616, y: -0.004066862, z: -0.008440859, w: 0.8861488}
+      scale: {x: 1.0000012, y: 1.0000008, z: 1.0000007}
+    - name: murmur_LeftHand
+      parentName: murmur_LeftForeArm
+      position: {x: -0.21545269, y: 0.0000000035772274, z: 0.00000004031067}
+      rotation: {x: -9.313226e-10, y: 0.000000014901161, z: 0.0000000037252903, w: 1}
+      scale: {x: 1.0000011, y: 1.0000011, z: 1.0000011}
+    - name: murmur_LeftHandThumb1
+      parentName: murmur_LeftHand
+      position: {x: -0.04348757, y: -0.0079850145, z: 0.042824373}
+      rotation: {x: -0.12539573, y: 0.20542502, z: -0.28968355, w: 0.92636925}
+      scale: {x: 1.0000013, y: 1.0000008, z: 1.000001}
+    - name: murmur_LeftHandThumb2
+      parentName: murmur_LeftHandThumb1
+      position: {x: -0.025125898, y: -0.0053610043, z: 0.0070745107}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000012, y: 1.0000006, z: 1.0000005}
+    - name: murmur_LeftHandMiddle1
+      parentName: murmur_LeftHand
+      position: {x: -0.08624609, y: 0.005008907, z: 0.013046887}
+      rotation: {x: 0.0000000018626451, y: -0, z: 0.000000011175871, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000007}
+    - name: murmur_LeftHandMiddle2
+      parentName: murmur_LeftHandMiddle1
+      position: {x: -0.048632525, y: -0.000000005496103, z: 0.00000296658}
+      rotation: {x: -0.000000029802319, y: -0.000000029802319, z: 0.0000000149011585,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000005}
+    - name: bottle_jnt
+      parentName: murmur_LeftHand
+      position: {x: -0.11618315, y: -0.033817127, z: 0.037279937}
+      rotation: {x: 0.058021974, y: -0.70916945, z: -0.68017673, w: 0.17627199}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: murmur_RightShoulder
+      parentName: murmur_Spine3
+      position: {x: 0.06999999, y: 0.09191886, z: -0.005372133}
+      rotation: {x: -0, y: -0.000000034924597, z: 0.000000005820766, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: murmur_RightArm
+      parentName: murmur_RightShoulder
+      position: {x: 0.10707275, y: 0.000004272461, z: 0}
+      rotation: {x: -0.000000011680141, y: 0.00000001753965, z: -0.0066778422, w: 0.9999777}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.99999994}
+    - name: murmur_RightForeArm
+      parentName: murmur_RightArm
+      position: {x: 0.39466, y: -0.000000007615887, z: 0}
+      rotation: {x: -0.0000000013042026, y: -0.0000000118015, z: -0.22406064, w: 0.9745752}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: murmur_RightHand
+      parentName: murmur_RightForeArm
+      position: {x: 0.21545002, y: -0.0000000052883853, z: 0}
+      rotation: {x: 0.000000023283054, y: 0.0000000116415295, z: 0.000000014901163,
+        w: 1}
+      scale: {x: 1.0000005, y: 1.0000008, z: 0.99999994}
+    - name: murmur_RightHandThumb1
+      parentName: murmur_RightHand
+      position: {x: 0.04348994, y: -0.00799003, z: 0.042820003}
+      rotation: {x: 1.776357e-15, y: 0.000000011641526, z: -5.4210066e-16, w: 1}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1}
+    - name: murmur_RightHandThumb2
+      parentName: murmur_RightHandThumb1
+      position: {x: 0.025125276, y: -0.0053609847, z: 0.00707}
+      rotation: {x: -0, y: -0, z: -2.0679507e-23, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1}
+    - name: murmur_RightHandMiddle1
+      parentName: murmur_RightHand
+      position: {x: 0.08809761, y: 0.005008911, z: 0.013054585}
+      rotation: {x: -0.000000011641526, y: -0.000000011641533, z: 8.271803e-23, w: 1}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000001}
+    - name: murmur_RightHandMiddle2
+      parentName: murmur_RightHandMiddle1
+      position: {x: 0.048602957, y: -0.0000000019965822, z: -0.0016959858}
+      rotation: {x: 0.000000011641258, y: -0.000005285253, z: 5.4287456e-14, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: murmur_Neck
+      parentName: murmur_Spine3
+      position: {x: -0, y: 0.1481893, z: 0.0313678}
+      rotation: {x: 0.21548647, y: -0.000000020854625, z: 0.000000013543211, w: 0.9765068}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: murmur_Neck1
+      parentName: murmur_Neck
+      position: {x: -0, y: 0.06018179, z: -0.0054935906}
+      rotation: {x: -0.94213706, y: 0.000000003931051, z: -0.0000000043694346, w: 0.33522797}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.0000002}
+    - name: murmur_Head
+      parentName: murmur_Neck1
+      position: {x: -0, y: -0.03429479, z: 0.04659807}
+      rotation: {x: 0.25194946, y: 2.2190108e-10, z: -4.9594107e-11, w: -0.9677404}
+      scale: {x: 1, y: 1.0000002, z: 1.000001}
+    - name: sk_r_eyeLid_jnt
+      parentName: murmur_Head
+      position: {x: 0.0370611, y: -0.14134592, z: 0.08237195}
+      rotation: {x: 0.9429506, y: -0.20110996, z: -0.1584081, w: 0.21285172}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bn_r_eyeLid_jnt
+      parentName: sk_r_eyeLid_jnt
+      position: {x: 0.060747378, y: -0.000008639841, z: 0.000001879168}
+      rotation: {x: -0.9736146, y: -0.03594409, z: 0.168039, w: -0.15015212}
+      scale: {x: 1, y: 1.0000015, z: 1.000001}
+    - name: sk_l_eyeLid_jnt
+      parentName: murmur_Head
+      position: {x: -0.037061114, y: -0.1413418, z: 0.082369134}
+      rotation: {x: -0.21285173, y: -0.1584081, z: 0.20110996, w: 0.9429506}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bn_l_eyeLid_jnt
+      parentName: sk_l_eyeLid_jnt
+      position: {x: -0.060749777, y: 6.266813e-16, z: 4.2733445e-16}
+      rotation: {x: -0.9736145, y: -0.035944153, z: 0.16803901, w: -0.15015206}
+      scale: {x: 1, y: 1.0000002, z: 0.99999976}
+    - name: sk_r_eyeBall_jnt
+      parentName: murmur_Head
+      position: {x: 0.030131115, y: -0.13895746, z: 0.0857902}
+      rotation: {x: -0.32718882, y: 0.32718882, z: -0.6268553, w: -0.62685525}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000004}
+    - name: be_r_eyeBall_jnt
+      parentName: sk_r_eyeBall_jnt
+      position: {x: -0.24472602, y: -0.0000000054168288, z: -0.00000007041849}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sk_l_eyeBall_jnt
+      parentName: murmur_Head
+      position: {x: -0.030131098, y: -0.13896155, z: 0.08579302}
+      rotation: {x: -0.32718882, y: -0.32718882, z: 0.62685525, w: -0.6268553}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000004}
+    - name: be_l_eyeBall_jnt
+      parentName: sk_l_eyeBall_jnt
+      position: {x: 0.244726, y: -0.000000005416772, z: -0.00000012458656}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Murmur
+      parentName: TEST-s5m1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: grp_ctrl_face
+      parentName: Murmur
+      position: {x: -0, y: 2.842171e-16, z: -1.7763568e-17}
+      rotation: {x: 2.7755576e-16, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ref_ctrl_eyeAim
+      parentName: grp_ctrl_face
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: grp_mesh
+      parentName: Murmur
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_sock_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_eye_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_shoe_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_sock_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_shoe_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: l_hand_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: r_eye_mesh
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bottle
+      parentName: grp_mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
